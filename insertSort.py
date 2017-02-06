@@ -10,7 +10,7 @@ for i in range(1, len(_list)):
     ins = 0
 
     for j in range((i-1), -1, -1):
-        #1番目からx-1番目までの数と比較
+        #1番目からx番目までの数と比較
         if(_list[j] > tmp):
             _list[j+1] = _list[j]
         else:
