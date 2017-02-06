@@ -1,2 +1,2 @@
-# InsertionSort
-Insertion sort.
+# InsertionSort by Python
+Insertion sort by Python.
